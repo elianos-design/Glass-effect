@@ -1,6 +1,6 @@
 # GlassLens
 
-A glass effect OFX plugin, inspired by the Mirage plugin using Craftanything.
+A glass effect OFX plugin, inspired by the Mirage plugin build in Rust using Craftanything.
 
 ## Compatibility
 - Windows 64-bit
